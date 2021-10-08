@@ -6,6 +6,10 @@ The purpose of this project is to analyze the data of an entire School District,
 
 # Results
 according l academic dishonesty by the ninth grade students of Thomas High School, this analysis was conducted twice. The first trial of this analysis included the full set of student data. In the second trial of this analysis, the ninth grade students of Thomas High School had their scores omitted from the calculations. The entire ninth grade class of Thomas High School have had their scores replaced with NaN. The DataFrame below is a summary representing the District after replacing the ninth graders' scores with NaN. district_overview
+
+![image](https://user-images.githubusercontent.com/90945875/136616738-c0eec51a-9aa2-48dd-b4c3-0e3b82b8b50a.png)
+
+
 ## The Effects of School Budget and School Size
 It is found that Average Scores and Passing Percentages do not increase as spending per student increases. In fact, the top performing school in the entire school district (Cabera High School) received $68 less per student than the lowest performing school (Johnson High School). This implies that there are more relevant factors than funding that decide average student scores.
 
