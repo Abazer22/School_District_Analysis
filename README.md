@@ -11,23 +11,33 @@ according l academic dishonesty by the ninth grade students of Thomas High Schoo
 
 
 ## The Effects of School Budget and School Size
-It is found that Average Scores and Passing Percentages do not increase as spending per student increases. In fact, the top performing school in the entire school district (Cabera High School) received $68 less per student than the lowest performing school (Johnson High School). This implies that there are more relevant factors than funding that decide average student scores.
+It is found that Average Scores and Passing Percentages do not increase as spending per student increases. In fact, the top performing school in the entire school district (Cabera High School) received $68 less per student than the lowest performing school (Johnson High School). This explain that there are more relevant factors than funding that decide average student scores.
 
 ### School_budget_per_student
 
 Considering School Sizes, "Large" Schools (Over 2,000 Students) have the lowest average scores and passing percentages. The difference in performance between "Small" and "Medium" Size Schools is negligible . Interestingly, all District schools in this dataset are characterized as "Large" schools. This may be an indication that students in this district learn and perform better in smaller, more intimate settings.
 
+![school_budget](https://user-images.githubusercontent.com/90945875/136665604-0bc03747-1d35-429d-9167-7abeaeb49a76.PNG)
+
+
 ### School_size
 
-
+The large school overall pass score very low when we compare with another scholls sizes 
 Charter schools generally performed better than District schools in this analysis. The top five schools with the highest overall passing percentages are all Charter schools, whereas the bottom five are all District Schools. Charter schools in this dataset were typically characterized as "Small" and "Medium" size schools. As seen in the DataFrame below, Charter schools have a 36% higher overall passing percentage than District schools.
+
+
+![school_size](https://user-images.githubusercontent.com/90945875/136665795-40de9c86-d093-4433-b092-491cdf3ba75d.PNG)
 
 ### School_type
 
-Average Scores by Grade Level
-After analyzing the average scores for math and reading by grade level for each school, it is found that a students grade level does not affect their scores as much as the school that they attend. The average scores within each school only varries by 1-2% depending on grade level. However, the difference in scores is more apparent when comparing different schools.
+There is 2 types of school Charter	and District
+After the analysis on the schools types we found that the Charter's schools thier performance much better than District's schools 
 
-To see the detailed breakdown of Average Math Scores by grade, please click here. Alternatively, if you would like to view the Average Reading Scores by grade, please click here.
+
+![school_type](https://user-images.githubusercontent.com/90945875/136665906-fed56adb-10ed-4411-931f-b0df130f4fcc.PNG)
+
+
+
 
 ### Replacing the ninth graders' math and reading scores with NaN resulted  changes for Thomas High School:
 
